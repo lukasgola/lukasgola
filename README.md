@@ -3,12 +3,10 @@
 
 ### My name is **Łukasz Gola** and I am a _Silesian University of Technology_ student in Poland.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on 
+***- 🔭 I’m currently working on:***
     - React Native Apps
     - React Websites
-- 🌱 I’m currently learning 
+***- 🌱 I’m currently learning:***
     - React Native
     - Flutter
    
