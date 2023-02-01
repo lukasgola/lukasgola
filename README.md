@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-*** My name is **Łukasz Gola** and I am a _Silesian University of Technology_ student in Poland.
+### My name is **Łukasz Gola** and I am a _Silesian University of Technology_ student in Poland.
 
 Here are some ideas to get you started:
 
