@@ -9,7 +9,8 @@
     
 - 🌱 **I’m currently learning:**
     - React Native 
-    - Flutter 
+    - React
+    - C++
    
 <!--
 - 👯 I’m looking to collaborate on ...
