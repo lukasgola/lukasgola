@@ -8,9 +8,9 @@
     - React Websites 
     
 - 🌱 **I’m currently learning:**
-    - React Native 
-    - React
-    - C++
+    - SwiftUI
+    - Java
+    - NextJS
    
 <!--
 - 👯 I’m looking to collaborate on ...
