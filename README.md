@@ -5,12 +5,12 @@
 
 - 🔭 **I’m currently working on:**
     - React Native Apps 
-    - React Websites 
+    - AI Docking Systen
     
 - 🌱 **I’m currently learning:**
-    - SwiftUI
-    - Java
-    - NextJS
+    - Machine Learning
+    - Evolutionary Algorithms
+    - NextJS & TypeScript
    
 <!--
 - 👯 I’m looking to collaborate on ...
