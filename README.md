@@ -1,16 +1,11 @@
 ### Hi there 👋
 
 
-### My name is **Łukasz Gola** and I am a _Silesian University of Technology_ student in Poland.
+### My name is **Łukasz Gola** and I am a Software Engineer from Poland.
 
 - 🔭 **I’m currently working on:**
     - React Native Apps 
-    - AI Docking Systen
-    
-- 🌱 **I’m currently learning:**
-    - Machine Learning
-    - Evolutionary Algorithms
-    - NextJS & TypeScript
+    - Next.js Saas Apps
    
 <!--
 - 👯 I’m looking to collaborate on ...
